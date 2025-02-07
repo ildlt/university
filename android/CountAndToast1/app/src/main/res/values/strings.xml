@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Showcasing the toast</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="count_up">Count Up</string>
+    <string name="count">Count</string>
+    <string name="toast_text">This is a toast</string>
+</resources>

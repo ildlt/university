@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">Heading</string>
+    <string name="subheading">Subheading www.google.com</string>
+    <string name="article">
+
+Lorem ipsum dolor sit amet, \'consectetur adipiscing elit. Nam lobortis nisi urna, varius commodo nisi tempor vel. Fusce sed metus et lectus bibendum venenatis. Pellentesque ultrices lacus ipsum, nec convallis purus posuere in. Fusce id enim elementum, condimentum risus nec, fermentum nunc. Aenean eu nunc lacinia, pellentesque nisl eu, volutpat ex. Sed aliquam dolor et turpis feugiat dignissim. Nunc vestibulum nunc quis purus rhoncus vulputate. Vestibulum eget ligula nunc. Proin eget diam nec eros euismod lacinia. Duis vehicula ullamcorper diam, et tempus massa convallis et. Cras semper semper mattis. Vestibulum eu eros fringilla, tincidunt dolor et, porttitor neque. Quisque varius nulla fermentum erat sagittis tempor non quis sem. Praesent cursus quam ut ipsum placerat maximus porttitor eu leo. Sed porttitor est in orci suscipit laoreet.
+
+\n\nPraesent lectus arcu, bibendum at interdum ut, porta et purus. Etiam rutrum, elit non condimentum pharetra, ipsum risus laoreet magna, sed molestie arcu sem ut ante. Pellentesque at felis posuere, gravida augue eget, sagittis nisi. Aliquam erat volutpat. Pellentesque nec erat mauris. Donec nec arcu dapibus, lobortis lorem ac, aliquet libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam maximus mauris purus, at porttitor enim ullamcorper sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc volutpat nisi mauris, vitae euismod eros fringilla congue.
+
+\n\nSed molestie lorem a felis elementum lacinia. Quisque laoreet arcu a justo dignissim tristique. Sed nec risus at eros maximus fringilla. Integer facilisis pellentesque posuere. Fusce ligula purus, dapibus nec nisl ac, faucibus dapibus est. Nullam vulputate pulvinar massa ac tincidunt. Phasellus viverra, ligula sed auctor cursus, neque nisi pulvinar nibh, ac dignissim massa massa et tortor. Donec at purus at augue fringilla luctus.
+
+\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Proin lobortis urna lacus, vel tincidunt augue interdum ac. Curabitur feugiat consequat massa. Ut ipsum odio, interdum eu tincidunt et, molestie ac lectus. Etiam vitae diam interdum, finibus purus et, mattis quam. Suspendisse nec lacinia ligula. Donec nunc justo, maximus in nisl sit amet, tempus congue nisi. In pharetra lobortis tortor ac hendrerit. Sed vitae ultrices sem. Proin gravida sapien ante, eu dignissim mi finibus sed. Suspendisse a erat tincidunt, mollis ligula eget, fringilla erat.
+
+\n\nVivamus ut facilisis risus, nec consectetur orci. Praesent at tellus eget elit efficitur commodo. Donec interdum imperdiet posuere. Nam tincidunt eros ut sem aliquet, sit amet facilisis quam sollicitudin. Sed tristique fermentum dui, eget fermentum nisi fermentum sed. Cras fermentum enim tortor. Phasellus dictum id est sed sagittis. Sed vitae lectus ut ante tincidunt placerat a nec libero. Quisque turpis lacus, faucibus condimentum tempor sit amet, dictum a ex. Quisque pretium nunc eu porttitor dapibus. </string>
+</resources>
