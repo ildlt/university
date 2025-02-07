@@ -1,0 +1,4 @@
+﻿  task2-2.cpp
+C:\Users\Alexis\source\repos\task2-2\task2-2\task2-2.cpp(11,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexis\source\repos\task2-2\task2-2\task2-2.cpp(12,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task2-2.vcxproj -> C:\Users\Alexis\source\repos\task2-2\Debug\task2-2.exe

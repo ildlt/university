@@ -1,0 +1,18 @@
+﻿  task10.cpp
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(105,35): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(105,29): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(106,15): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(113,38): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(113,61): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(113,51): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(113,43): warning C4244: аргумент: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+C:\Users\Alexis\source\repos\task10\task10\task10.cpp(120,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  task10.vcxproj -> C:\Users\Alexis\source\repos\task10\Debug\task10.exe
