@@ -1,0 +1,37 @@
+﻿  task1.cpp
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(19,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(52,35): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(54,31): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(55,30): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(67,17): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(68,16): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(85,39): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(86,41): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(114,41): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(115,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(146,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(147,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(148,55): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(156,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(156,45): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(157,51): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(162,51): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(167,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(168,53): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(232,48): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(232,73): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(233,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(233,72): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(236,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(237,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(248,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(249,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(252,39): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(262,45): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(263,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(267,40): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(301,27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(304,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(311,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\Alexis\source\repos\task1\task1\task1.cpp(314,49): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  task1.vcxproj -> C:\Users\Alexis\source\repos\task1\Debug\task1.exe

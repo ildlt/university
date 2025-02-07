@@ -1,0 +1,3 @@
+﻿  kr.cpp
+C:\Users\Alexis\source\repos\kr\kr\kr.cpp(22,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  kr.vcxproj -> C:\Users\Alexis\source\repos\kr\Debug\kr.exe
