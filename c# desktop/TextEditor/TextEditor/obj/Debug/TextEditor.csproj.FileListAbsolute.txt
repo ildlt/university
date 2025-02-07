@@ -1,0 +1,9 @@
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Alexis\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
